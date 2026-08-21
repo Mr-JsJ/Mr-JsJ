@@ -59,26 +59,6 @@ Worked across the full stack using C#, ASP.NET, and Angular, with Microsoft SQL 
 
 ---
 
-## Featured Projects
-
-### Trainify
-Browser-based machine learning platform for image classification, built for non-technical users.
-`Python` `Django` `TensorFlow` `Keras`
-
-### Secure Photo Vault
-Secure cloud-based image storage application with AES encryption, elliptic curve cryptography, and two-factor authentication. Includes automatic image tagging and face recognition-based sorting.
-`Python` `Django` `PostgreSQL`
-
-### Todo Application
-Full-stack Todo application with JWT-based authentication, supporting user-specific task management.
-`Angular` `ASP.NET Core` `C#` `SQL Server` `JWT`
-
-### Portfolio Website
-Responsive personal portfolio site showcasing projects, skills, and development experience.
-`Angular` `HTML` `CSS` `JavaScript`
-
----
-
 ## Currently Learning
 
 ASP.NET Core · Angular · REST APIs · JWT Authentication · Full-Stack Development
