@@ -67,13 +67,18 @@ ASP.NET Core · Angular · REST APIs · JWT Authentication · Full-Stack Develop
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Mr-JsJ&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-JsJ&theme=default&hide_border=true" />
-</p>
-<p align="left">
-  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mr-JsJ&theme=default&hide_border=true&langs_count=8" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=Mr-JsJ&show_icons=true&theme=default&hide_border=true&count_private=true" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-JsJ&theme=default&hide_border=true" />
+    </td>
+    <td valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mr-JsJ&theme=default&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -86,8 +91,8 @@ Rajiv Gandhi Institute of Technology, Kottayam
 
 ## Certifications
 
-- AWS Cloud Practitioner
-- Python — NPTEL / IIT Madras
+- Data Management and Machine Learning Using Python - L&T EduTech and ASAP Kerala
+- Database Management System - NPTEL
 
 ---
 
