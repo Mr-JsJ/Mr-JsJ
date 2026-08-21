@@ -68,11 +68,11 @@ ASP.NET Core · Angular · REST APIs · JWT Authentication · Full-Stack Develop
 ## GitHub Stats
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mr-JsJ&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Mr-JsJ&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-JsJ&theme=default&hide_border=true" />
 </p>
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-JsJ&theme=default&hide_border=true&langs_count=8" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mr-JsJ&theme=default&hide_border=true&langs_count=8" />
 </p>
 
 ---
