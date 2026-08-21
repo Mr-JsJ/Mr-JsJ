@@ -1,8 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" />
-</p>
+
 
 <h1 align="center">
   Hi 👋, I'm Jithin S John
